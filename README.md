@@ -1,4 +1,4 @@
-# gRAB GDTOT Cookie
+# GRAB GDTOT Cookie
 Browser's Console code to Grab Cookie from File Sharer Site GDTOT
 
 First You have to Login then you can simply run this code in your browser's console(ctrl+shift+j).  
